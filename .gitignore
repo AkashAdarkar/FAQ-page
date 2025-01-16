@@ -7,6 +7,6 @@
 .prettierignore
 
 design
-resources
+
 node_modules
 *.json
