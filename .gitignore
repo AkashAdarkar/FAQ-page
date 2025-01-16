@@ -1,0 +1,12 @@
+*.env
+
+*.fig
+*.xd
+
+.DS_Store
+.prettierignore
+
+design
+resources
+node_modules
+*.json
